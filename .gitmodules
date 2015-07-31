@@ -1,0 +1,9 @@
+[submodule "centos"]
+	path = centos
+	url = https://github.com/boxcutter/centos.git
+[submodule "debian"]
+	path = debian
+	url = https://github.com/boxcutter/debian.git
+[submodule "ubuntu"]
+	path = ubuntu
+	url = https://github.com/boxcutter/ubuntu.git
